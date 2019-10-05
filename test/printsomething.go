@@ -1,7 +1,2 @@
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, playground")
-}
+package test
+var TextInGitHub = "This message is coming from my github repository."
